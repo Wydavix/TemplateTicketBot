@@ -1,0 +1,26 @@
+{
+  "name": "templateticketbot",
+  "version": "2.0.0",
+  "description": "Template ticket bot by wydavix.fr",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "autoRestart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJlulu02/TemplateTicketBot.git"
+  },
+  "author": "MJlulu02",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MJlulu02/TemplateTicketBot/issues"
+  },
+  "homepage": "https://github.com/MJlulu02/TemplateTicketBot#readme"
+}

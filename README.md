@@ -11,7 +11,7 @@
 
 ## 💻 Use Bot
 
-To use the template, simply download the code [Click Here](). Once done, you just have to modify the config.json file by entering the token of your bot, the prefix etc. then launch the start.bat file.
+To use the template, simply download the code [Click Here](https://github.com/Wydavix/TemplateTicketBot/releases/tag/2.0.0). Once done, you just have to modify the config.json file by entering the token of your bot, the prefix etc. then launch the start.bat file.
 
 ## ⚙️ Commands
 

@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MJlulu02/TemplateTicketBot.git"
+    "url": "git+https://github.com/Wydavix/TemplateTicketBot.git"
   },
   "author": "MJlulu02",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MJlulu02/TemplateTicketBot/issues"
+    "url": "https://github.com/Wydavix/TemplateTicketBot/issues"
   },
-  "homepage": "https://github.com/MJlulu02/TemplateTicketBot#readme"
+  "homepage": "https://github.com/Wydavix/TemplateTicketBot#readme"
 }
